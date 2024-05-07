@@ -39,7 +39,7 @@ Inspired by Abdulrahman's event, Ahmed decides to host his own meeting to engage
 [Show Figma](https://www.figma.com/file/MHNpDKqh8hv9bvgtrjEraP/PageTurner?type=design&node-id=36-906&mode=design&t=UjF0KzXcvukeJUyJ-0)
 
 ###### ____________________________________________________________________________________________________________________________
-## Presentation On Canve :
+## Presentation On Canva :
 
 [Show Presentation On Canva](https://www.canva.com/design/DAGEh_wSwls/z-2adqdauyJWPorKmtghuw/view)
 
