@@ -5,7 +5,7 @@ ________________________________________________________________________________
 
 ## Introduction:
 ### PageTurner is a dynamic platform that bridges the gap between readers and writers, offering a rich array of features to enhance your literary journey. With our website, writers can showcase their published works, while readers can curate personalized reading lists and engage in insightful discussions about their favorite books.
-###### _________________________________________________________________________________________________________________________________________________________________
+###### ____________________________________________________________________________________________________________________________
 ## Features 
 ### 1. Introduction
 ### 2. Problem
@@ -15,7 +15,7 @@ ________________________________________________________________________________
 ### 6. Dependencies
 ### 7. Figma
 ### 8. Postman documentation
-###### _________________________________________________________________________________________________________________________________________________________________
+###### ____________________________________________________________________________________________________________________________
 ## Scenario
 #### A reader, Abdulrahman, eager to explore new literary realms, visits PageTurner's website. He registers with his email and creates a secure password. Once logged in, Abdulrahman heads to his profile settings, where he can edit his personal details to reflect his literary tastes. Excited to dive into a new book, he browses through the platform's vast library, finding a captivating title. With a click, Abdulrahman purchases the book and adds it to his "Purchased" list for easy access. Intrigued by several other titles, he adds them to his "Want to Read" list for future exploration. He selects a book from his "Reading Now" list and begins immersing himself in its pages. After completing it, Abdulrahman moves it to his "Done Reading" list, where he can leave a thoughtful review and rate the book based on his experience.
 
