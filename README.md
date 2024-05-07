@@ -24,3 +24,11 @@ Abdulrahman also explores the community aspect of PageTurner, setting personal r
 Meanwhile, Ahmed, an aspiring writer, registers on PageTurner to share his literary creations with the world. After logging in, he navigates to his profile settings, where he adds details about himself and his writing journey. With enthusiasm, Ahmed uploads his manuscript and publishes his first book on the platform. Eager to connect with readers, he follows users who have shown interest in similar genres. He eagerly checks for reviews on his book, finding satisfaction in the positive feedback and constructive criticism from his readers.
 
 Inspired by Abdulrahman's event, Ahmed decides to host his own meeting to engage with readers and gain valuable insights into their preferences. He can easily access a list of all his previous meetings, reflecting on the connections made and the discussions held, as he continues his journey as a writer within the vibrant community of PageTurner.
+###### ____________________________________________________________________________________________________________________________
+## UseCase Diagram :
+<img src=""like width="" height"">
+
+###### ____________________________________________________________________________________________________________________________
+## Class Diagram :
+<img src=""like width="" height"">
+
