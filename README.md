@@ -1,5 +1,5 @@
 # Add Logo Here!
-<img src="">
+<img src="https://github.com/TerraTech0/PageTurner_Platform/blob/master/PageTurner%20Platform/PageTurnerLogo.png">
 # PageTurner Platform
 
 ## Introduction:
