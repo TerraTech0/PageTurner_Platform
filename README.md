@@ -26,9 +26,48 @@ Meanwhile, Ahmed, an aspiring writer, registers on PageTurner to share his liter
 Inspired by Abdulrahman's event, Ahmed decides to host his own meeting to engage with readers and gain valuable insights into their preferences. He can easily access a list of all his previous meetings, reflecting on the connections made and the discussions held, as he continues his journey as a writer within the vibrant community of PageTurner.
 ###### ____________________________________________________________________________________________________________________________
 ## UseCase Diagram :
-<img src=""like width="" height"">
+<img src="https://github.com/TerraTech0/PageTurner_Platform/blob/master/PageTurner%20Platform/Final_Project_Use_Case.drawio.png" width="800" height="500">
 
 ###### ____________________________________________________________________________________________________________________________
 ## Class Diagram :
-<img src=""like width="" height"">
 
+<img src="https://github.com/TerraTech0/PageTurner_Platform/blob/master/PageTurner%20Platform/PageTurnerClassDiagram.drawio.png" width="800" height="500">
+
+###### ____________________________________________________________________________________________________________________________
+## Figma :
+
+[Show Figma](https://www.figma.com/file/MHNpDKqh8hv9bvgtrjEraP/PageTurner?type=design&node-id=36-906&mode=design&t=UjF0KzXcvukeJUyJ-0)
+
+###### ____________________________________________________________________________________________________________________________
+## Presentation On Canve :
+
+[Show Presentation On Canva](https://www.canva.com/design/DAGEh_wSwls/z-2adqdauyJWPorKmtghuw/view)
+
+###### ____________________________________________________________________________________________________________________________
+## Postman API Documentation :
+
+[Show Postman API Documentation](https://documenter.getpostman.com/view/34658199/2sA3JJA43y)
+
+###### ____________________________________________________________________________________________________________________________
+## My Endpoints :
+### 1. Follow For Reader
+### 2. Unfollow For Reader
+### 3. Add Book To Purchased List
+### 4. Add Book To Want To Read List
+### 5. Add Book To Reading Now List
+### 6. Add Book To Done Reading List
+### 7. Get All Purchased Books
+### 8. Get All Want To Read Books
+### 9. Get All Reading Now Books
+### 10. Get All Done Reading Books
+### 11. Start Meeting
+### 12. End Meeting
+### 13. Get Upcoming Meetings
+### 14. Get Previous Meetings For Writer
+### 15. Get Previous Meetings For Reader
+### 16. Search Meeting By Id
+### 17. Search Meeting By Title
+### 18. Search Meeting By Book Name
+### 19. Get All Current Meetings
+### 20. Get Current Meeting
+### 21. Get All My Meetings
