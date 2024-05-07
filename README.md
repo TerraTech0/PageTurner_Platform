@@ -50,24 +50,29 @@ Inspired by Abdulrahman's event, Ahmed decides to host his own meeting to engage
 
 ###### ____________________________________________________________________________________________________________________________
 ## My Endpoints :
-### 1. Follow For Reader
-### 2. Unfollow For Reader
-### 3. Add Book To Purchased List
-### 4. Add Book To Want To Read List
-### 5. Add Book To Reading Now List
-### 6. Add Book To Done Reading List
-### 7. Get All Purchased Books
-### 8. Get All Want To Read Books
-### 9. Get All Reading Now Books
-### 10. Get All Done Reading Books
-### 11. Start Meeting
-### 12. End Meeting
-### 13. Get Upcoming Meetings
-### 14. Get Previous Meetings For Writer
-### 15. Get Previous Meetings For Reader
-### 16. Search Meeting By Id
-### 17. Search Meeting By Title
-### 18. Search Meeting By Book Name
-### 19. Get All Current Meetings
-### 20. Get Current Meeting
-### 21. Get All My Meetings
+
+| EndPoint Name | Done By | Reviewd By |
+| --------------- | --------------- | --------------- |
+| Follow For Reader   | Abdulrahman | Nahj And Renad    |
+| Unfollow For Reader | Abdulrahman | Nahj And Renad     |
+| Add Book To Purchased List | Abdulrahman  | Nahj And Renad   |
+| Add Book To Want To Read List | Abdulrahman   | Abdulrahman     |
+| Add Book To Reading Now List | Abdulrahman   | Abdulrahman    |
+| Add Book To Done Reading List | Abdulrahman   | Abdulrahman    |
+| Get All Purchased Books | Abdulrahman    | Abdulrahman   |
+| Get All Want To Read Books | Abdulrahman    | Abdulrahman   |
+| Get All Reading Now Books | Abdulrahman    | Abdulrahman   |
+| Get All Done Reading Books | Abdulrahman    | Abdulrahman   |
+| Start Meeting | Abdulrahman    | Abdulrahman    |
+| End Meeting| Abdulrahman   | Abdulrahman   |
+| Get Upcoming Meetings| Abdulrahman    | Abdulrahman    |
+| Get Previous Meetings For Writer | Abdulrahman    | Nahj    |
+| Get Previous Meetings For Reader| Abdulrahman    | Abdulrahman    |
+| Search Meeting By Id| Abdulrahman   | Abdulrahman    |
+| Search Meeting By Title | Abdulrahman    | Abdulrahman   |
+| Search Meeting By Book Name | Abdulrahman   | Abdulrahman   |
+| Get All Current Meetings | Abdulrahman     | Abdulrahman    |
+| Get Current Meeting| Abdulrahman  | Abdulrahman    |
+| Get All My Meetings | Abdulrahman    | Abdulrahman   |
+
+ر
