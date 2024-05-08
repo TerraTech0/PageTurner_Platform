@@ -52,6 +52,9 @@ Inspired by Abdulrahman's event, Ahmed decides to host his own meeting to engage
 
 | EndPoint Name | Name |
 | --------------- | --------------- |
+| User Model   | Abdulrahman |
+| Post Model & CRUD   | Abdulrahman|
+| JoinSession Model  | Abdulrahman|
 | Follow For Reader   | Abdulrahman, Nahj, Renad |
 | Unfollow For Reader | Abdulrahman, Nahj, Renad |      |
 | Add Book To Purchased List | Abdulrahman, Nahj, Renad  |
