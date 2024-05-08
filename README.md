@@ -75,5 +75,3 @@ Inspired by Abdulrahman's event, Ahmed decides to host his own meeting to engage
 | Get All My Meetings | Abdulrahman    | Abdulrahman   |
 | BookControllerTest | Abdulrahman    | Abdulrahman   |
 | System Security | Abdulrahman, Nahj, Renad   |
-
-ر
